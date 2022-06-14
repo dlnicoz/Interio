@@ -1,0 +1,131 @@
+@import url("https://fonts.googleapis.com/css2?family=Satisfy&display=swap");
+.a1container {
+  font-family: "Satisfy";
+  background-color: #8484b3;
+  /* margin-bottom: 5rem; */
+  min-height: 80rem;
+  padding-top: 10rem;
+  padding: 10rem 4rem 4rem 10rem;
+}
+.a1card-body {
+  background-color: #ffffff;
+}
+.a1card {
+  /* border: none; */
+  box-shadow: 1px 1px 10px #444141;
+  border-radius: 22px !important;
+  width: 20rem;
+}
+
+/* ==========a1card header====== */
+.FirstCardHeaderBgColor {
+  background-color: #73ffd6;
+}
+
+.cardHeader {
+  height: 6rem;
+  position: relative;
+  border-top-left-radius: 12px;
+}
+.socialMediaIcon {
+  padding: 12px 12px;
+}
+
+.addSymbol {
+  /* background-color: #73ffd6; */
+  /* color: #ffffff; */
+  position: absolute;
+  right: -12px;
+  top: -10px;
+  border-radius: 18px;
+  box-shadow: 1px 2px 5px #434947;
+  height: 28px;
+  width: 28px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  font-size: 12px;
+}
+
+.iconColor {
+  color: #ffffff;
+}
+
+/* ==========a1card header====== */
+
+/* ======a1card body======== */
+
+/* ======a1card body======== */
+
+/* .cardBody {
+  background-color: #ffffff;
+} */
+/* ======img css======== */
+.imageDiv {
+  height: 6rem;
+  width: 6rem;
+  margin: -61px auto auto;
+  position: relative;
+  border: 5px solid #ffffff;
+  border-radius: 51px;
+}
+
+.image {
+  border-radius: 900px;
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+/* ======img css======== */
+
+/* ==================footer===== */
+
+.listItem {
+  list-style-type: none;
+}
+
+.footerIcons {
+  text-decoration: none;
+  text-decoration: none;
+  height: 24px;
+  width: 24px;
+  /* border: 1px solid black; */
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+/*==============footer===== */
+
+/* .ulElement {
+    border: 1px solid red;
+    } */
+
+.SecondCardHeaderBgColor {
+  background-color: #9fc1ff !important;
+}
+
+.ThirdCardHeaderBgColor {
+  background-color: #91a6d1;
+}
+
+.FourthCardHeaderBgColor {
+  background-color: #9ad9ff;
+}
+
+.FifthCardHeaderBgColor {
+  background-color: #a4d0e7;
+}
+
+.SixthCardHeaderBgColor {
+  background-color: #ffc6e3;
+}
+
+.SeventhCardHeaderBgColor {
+  background-color: #ffd7ae;
+}
+
+.EigthCardHeaderBgColor {
+  background-color: #ff97a3;
+}
